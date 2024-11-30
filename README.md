@@ -37,7 +37,7 @@ Compact Flash Card Interface for MSX based on [SC729 RCBus Compact Flash Module]
 | Reference | Value | Description            |
 |:---:|:-------: |:----------------------------------------- |
 |SW1	| -- | SPDT Switch, slide, right angle (reference OS102011MA1QN1) |
-|CN1	| -- | Printed Circuit Board  |
+|CN1	| -- | Printed Circuit Board [Gerbers](https://github.com/Danjovic/Soda-IDE/tree/main/hardware/Gerber) |
 |JP1	| -- | Pin Header, 1x3 pin, pitch 2.54mm, straight (Vertical) |
 |JP2,JP3,JP4 | -- | Pin Header, 1x2 pin, pitch 2.54mm, straight (Vertical) |
 		
