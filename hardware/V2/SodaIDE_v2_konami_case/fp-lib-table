@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "IDC40_EDGE")(type "KiCad")(uri "${KIPRJMOD}/IDC40_EDGE.pretty")(options "")(descr ""))
+)
