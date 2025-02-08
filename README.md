@@ -1,7 +1,19 @@
 # SODA IDE
 Compact Flash Card Interface for MSX based on [SC729 RCBus Compact Flash Module]( https://smallcomputercentral.com/sc729-rcbus-compact-flash-module/) originally designed by [Tadeusz Pycio](http://www.vtsys.pl/interface-compact-flash/) and [Beer IDE 232](https://github.com/b3rendsh/msxdos2s) by b3rendsh 
 
+## Printed circuit Boards:
+### For Konami Case
+
+#### Version 1
 ![Picture](/doc/Soda_IDE_top.jpg)
+
+#### Version 2
+![Picture](/doc/SodaIDE_v2_konami_case.jpg)
+
+### For Patola Case
+#### Version 2
+![Picture](/doc/SodaIDE_v2_patola_case.jpg)
+
 ### BILL OF MATERIALS
 
 #### Semiconductors
